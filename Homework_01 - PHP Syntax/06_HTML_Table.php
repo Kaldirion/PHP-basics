@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
     <title>HTML Table</title>
     <style>
@@ -49,3 +50,4 @@
         </tbody>
     </table>
 </body>
+</html>
